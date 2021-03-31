@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Daftar pakaian</string>
+    <string name="name_heroes">Nama pakaian</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Baju</item>
+        <item>gamis</item>
+        <item>hoodie</item>
+        <item>jaket</item>
+        <item>kaos</item>
+        <item>kemeja</item>
+        <item>panjang</item>
+        <item>pendek</item>
+        <item>piyama</item>
+        <item>selimut</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Harga 320K</item>
+        <item>Harga 123K</item>
+        <item>Harga 340K</item>
+        <item>Harga 223K</item>
+        <item>Harga 214K</item>
+        <item>Harga 215K</item>
+        <item>Harga 276K</item>
+        <item>Harga 190K</item>
+        <item>Harga 421K</item>
+        <item>Harga 213K</item>
+
+
+
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/baju</item>
+    <item>@drawable/gamis</item>
+    <item>@drawable/hoodie</item>
+    <item>@drawable/jaket</item>
+    <item>@drawable/kaos</item>
+    <item>@drawable/kemeja</item>
+    <item>@drawable/panjang</item>
+    <item>@drawable/pendek</item>
+    <item>@drawable/piyama</item>
+    <item>@drawable/selimut</item>
+    </array>
+
+
+
+</resources>
